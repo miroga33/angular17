@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Max 90",
+      "price": 129.99,
+      "category_id": 1,
+      "brand": "Nike",
+      "stock": 50
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost",
+      "price": 149.99,
+      "category_id": 1,
+      "brand": "Adidas",
+      "stock": 40
+    },
+    {
+      "id": 3,
+      "name": "Plain White T-Shirt",
+      "price": 19.99,
+      "category_id": 2,
+      "brand": "H&M",
+      "stock": 100
+    },
+    {
+      "id": 4,
+      "name": "Puffer Jacket",
+      "price": 79.99,
+      "category_id": 3,
+      "brand": "The North Face",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "name": "Boxer Briefs (Pack of 3)",
+      "price": 25.99,
+      "category_id": 4,
+      "brand": "Calvin Klein",
+      "stock": 80
+    },
+    {
+      "id": 6,
+      "name": "Columbia Waterproof Hiking Shoes",
+      "price": 89.99,
+      "category_id": 5,
+      "brand": "Columbia",
+      "stock": 20
+    },
+    {
+      "id": 7,
+      "name": "Puma RS-X Trainers",
+      "price": 109.99,
+      "category_id": 1,
+      "brand": "Puma",
+      "stock": 45
+    },
+    {
+      "id": 8,
+      "name": "New Balance 574",
+      "price": 99.99,
+      "category_id": 1,
+      "brand": "New Balance",
+      "stock": 60
+    },
+    {
+      "id": 9,
+      "name": "Reebok Classic Leather",
+      "price": 89.99,
+      "category_id": 1,
+      "brand": "Reebok",
+      "stock": 55
+    },
+    {
+      "id": 10,
+      "name": "Vans Old Skool",
+      "price": 74.99,
+      "category_id": 1,
+      "brand": "Vans",
+      "stock": 35
+    },
+    {
+      "id": 11,
+      "name": "Converse Chuck Taylor All Star",
+      "price": 64.99,
+      "category_id": 1,
+      "brand": "Converse",
+      "stock": 80
+    },
+    {
+      "id": 12,
+      "name": "Graphic Print T-Shirt",
+      "price": 22.99,
+      "category_id": 2,
+      "brand": "Zara",
+      "stock": 75
+    },
+    {
+      "id": 13,
+      "name": "Striped Cotton T-Shirt",
+      "price": 24.99,
+      "category_id": 2,
+      "brand": "Tommy Hilfiger",
+      "stock": 50
+    },
+    {
+      "id": 14,
+      "name": "Oversized Black T-Shirt",
+      "price": 19.99,
+      "category_id": 2,
+      "brand": "ASOS",
+      "stock": 90
+    },
+    {
+      "id": 15,
+      "name": "Vintage Band T-Shirt",
+      "price": 29.99,
+      "category_id": 2,
+      "brand": "Urban Outfitters",
+      "stock": 40
+    },
+    {
+      "id": 16,
+      "name": "Moisture-Wicking T-Shirt",
+      "price": 27.99,
+      "category_id": 2,
+      "brand": "Under Armour",
+      "stock": 65
+    },
+    {
+      "id": 17,
+      "name": "Denim Jacket",
+      "price": 89.99,
+      "category_id": 3,
+      "brand": "Levi's",
+      "stock": 25
+    },
+    {
+      "id": 18,
+      "name": "Wool Overcoat",
+      "price": 149.99,
+      "category_id": 3,
+      "brand": "Hugo Boss",
+      "stock": 15
+    },
+    {
+      "id": 19,
+      "name": "Bomber Jacket",
+      "price": 69.99,
+      "category_id": 3,
+      "brand": "Alpha Industries",
+      "stock": 30
+    },
+    {
+      "id": 20,
+      "name": "Rain Jacket",
+      "price": 59.99,
+      "category_id": 3,
+      "brand": "Patagonia",
+      "stock": 40
+    },
+    {
+      "id": 21,
+      "name": "Leather Biker Jacket",
+      "price": 199.99,
+      "category_id": 3,
+      "brand": "Schott NYC",
+      "stock": 10
+    },
+    {
+      "id": 22,
+      "name": "Cotton Briefs (Pack of 5)",
+      "price": 29.99,
+      "category_id": 4,
+      "brand": "Fruit of the Loom",
+      "stock": 120
+    },
+    {
+      "id": 23,
+      "name": "Thermal Underwear Set",
+      "price": 39.99,
+      "category_id": 4,
+      "brand": "Uniqlo",
+      "stock": 50
+    },
+    {
+      "id": 24,
+      "name": "Athletic Compression Shorts",
+      "price": 32.99,
+      "category_id": 4,
+      "brand": "Nike",
+      "stock": 70
+    },
+    {
+      "id": 25,
+      "name": "Silk Boxers",
+      "price": 49.99,
+      "category_id": 4,
+      "brand": "Versace",
+      "stock": 20
+    },
+    {
+      "id": 26,
+      "name": "Bamboo Fiber Boxer Briefs",
+      "price": 27.99,
+      "category_id": 4,
+      "brand": "Boody",
+      "stock": 55
+    },
+    {
+      "id": 27,
+      "name": "Merrell Moab 2 Hiking Shoes",
+      "price": 119.99,
+      "category_id": 5,
+      "brand": "Merrell",
+      "stock": 35
+    },
+    {
+      "id": 28,
+      "name": "Salomon X Ultra 3",
+      "price": 129.99,
+      "category_id": 5,
+      "brand": "Salomon",
+      "stock": 25
+    },
+    {
+      "id": 29,
+      "name": "Timberland Waterproof Boots",
+      "price": 149.99,
+      "category_id": 5,
+      "brand": "Timberland",
+      "stock": 30
+    },
+    {
+      "id": 30,
+      "name": "Skechers Go Walk 5",
+      "price": 79.99,
+      "category_id": 5,
+      "brand": "Skechers",
+      "stock": 45
+    },
+    {
+      "id": 31,
+      "name": "The North Face Hedgehog Fastpack",
+      "price": 109.99,
+      "category_id": 5,
+      "brand": "The North Face",
+      "stock": 20
+    },
+    {
+      "id": 32,
+      "name": "Nike Pegasus Trail 4",
+      "price": 129.99,
+      "category_id": 5,
+      "brand": "Nike",
+      "stock": 40
+    },
+    {
+      "id": 33,
+      "name": "Adidas Terrex Free Hiker",
+      "price": 139.99,
+      "category_id": 5,
+      "brand": "Adidas",
+      "stock": 25
+    },
+    {
+      "id": 34,
+      "name": "Arc'teryx Aerios FL GTX",
+      "price": 159.99,
+      "category_id": 5,
+      "brand": "Arc'teryx",
+      "stock": 15
+    },
+    {
+      "id": 35,
+      "name": "Columbia Newton Ridge Plus II",
+      "price": 89.99,
+      "category_id": 5,
+      "brand": "Columbia",
+      "stock": 50
+    },
+    {
+      "id": 36,
+      "name": "La Sportiva TX4 Approach Shoes",
+      "price": 119.99,
+      "category_id": 5,
+      "brand": "La Sportiva",
+      "stock": 30
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Trainers",
+      "description": "Need some new footwear? Our collection of men’s trainers is perfect if you’re looking for comfortable fits, stylish designs and durable materials, ideal for those looking to be more fashion-forward."
+    },
+    {
+      "id": 2,
+      "name": "T-Shirts",
+      "description": "For every occasion, there's a t-shirt, and for every t-shirt, you need our mens t-shirts collection."
+    },
+    {
+      "id": 3,
+      "name": "Jackets & Coats",
+      "description": "Our men’s jackets and coats collection has something to suit you, perfect for preparing for the colder months. "
+    },
+    {
+      "id": 4,
+      "name": "Underwear",
+      "description": "If you’re looking for comfortable, stylish and great-fitting underwear, then look no further than the men’s underwear collection."
+    },
+    {
+      "id": 5,
+      "name": "Walking Shoes",
+      "description": "Lace up a fresh pair of walking boots or walking shoes found here in our expert collection of men’s outdoor footwear, designed to give you everything you need to release the adventurer inside of you. "
+    }
+  ],
+  "users": [
+    {
+      "email": "richard@virg.in",
+      "password": "$2a$10$5xpv6BPDUKq5sYpSH0NTremt9JLrBNjEKrPkSvEMmOLaPIGFCcke6",
+      "username": "Richard Virgin",
+      "id": 1
+    },
+    {
+      "email": "jeff@blu.es",
+      "password": "$2a$10$dR9QIKy5zi0iQu9/f8sBeeP11wMeOAks9tjBX5nBhLdQJjw/ZUS9C",
+      "username": "Jeff Blues",
+      "id": 2
+    },
+    {
+      "email": "bill@wind.us",
+      "password": "$2a$10$iWYOu1X3MG3QulrPGKUhNODAAZq8NId7O69nLymfPhTqL8z3SFyMO",
+      "username": "Bill Windows",
+      "id": 3
+    },
+    {
+      "email": "an@error.es",
+      "password": "$2a$10$/TuqQ4GsytRRQDspiqBkyOpfmhV//WWwDU1q0RBI2WShPgR4QCz6S",
+      "username": "dsfa",
+      "terms": true,
+      "id": 4
+    }
+  ]
+}
